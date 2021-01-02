@@ -17,7 +17,7 @@ public class EMailSMTP {
 	// for example, smtp.mailgun.org
     private static final String SMTP_SERVER = "smtp.gmail.com";
     private static final String USERNAME = "bcemkucuk@gmail.com";
-    private static final String PASSWORD = "Topgun1239#";
+    private static final String PASSWORD = "";
 
     private static final String EMAIL_FROM = "bcemkucuk@gmail.com";
     private static final String EMAIL_TO = "bcemkucuk@gmail.com";
