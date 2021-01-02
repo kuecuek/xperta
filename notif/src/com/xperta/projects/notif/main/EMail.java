@@ -17,8 +17,8 @@ public class EMail {
 //		String to 				= "bcemkucuk@gmail.com";
 //		String from 			= "info@xperta.com.tr";
 		String host 			= "rd-eldar.guzelhosting.com";
-		final String username 	= "info@xperta.com.tr";
-		final String password 	= "INxper2019fo@@";
+		final String username 	= "";
+		final String password 	= "";
 
 
 		Properties properties = System.getProperties();
