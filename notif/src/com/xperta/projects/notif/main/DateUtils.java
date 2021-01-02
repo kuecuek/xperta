@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class DateUtils {
     
-    /**asd
+    /**
      * <p>Checks if two dates are on the same day ignoring time.</p>
      * @param date1  the first date, not altered, not null
      * @param date2  the second date, not altered, not null
