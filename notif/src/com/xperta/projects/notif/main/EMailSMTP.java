@@ -16,11 +16,11 @@ public class EMailSMTP {
 
 	// for example, smtp.mailgun.org
     private static final String SMTP_SERVER = "smtp.gmail.com";
-    private static final String USERNAME = "bcemkucuk@gmail.com";
+    private static final String USERNAME = "";
     private static final String PASSWORD = "";
 
-    private static final String EMAIL_FROM = "bcemkucuk@gmail.com";
-    private static final String EMAIL_TO = "bcemkucuk@gmail.com";
+    private static final String EMAIL_FROM = "";
+    private static final String EMAIL_TO = "";
     private static final String EMAIL_TO_CC = "";
 
     private static final String EMAIL_SUBJECT = "Deprem Uyarısı (" + new SimpleDateFormat("dd.MM.yyyy").format(new Date()) + ")";
